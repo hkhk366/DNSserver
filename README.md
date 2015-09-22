@@ -3,4 +3,4 @@ This is lightweight DNS server. When you surfing on line. Your computer has to t
 
 Even now we have very famous DNS server software which name is BIND. But it can only run on Linux or Unix. But most users use Windows. Unfortunately, on Windows platform has seldom DNS server software. So I wrote one. And this software is used very little resource but has high efficiency.
 
-I only upload the oldest version to this website. Because I sold this software to others later. According to the sale agreement. I can't put codes of the later version on a public area or show the codes to others.
+I only upload the oldest version to this website. Because I sold this software to others later. According to the sale agreement. I can't put codes of the later version on a public area or show the codes to others. I wish you can understand.
